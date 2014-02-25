@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music On!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    
+        <string-array name="action_list">
+        <item>注目ランキング</item>
+        <item>ニューリリース</item>
+        <item>総合ランキング</item>
+        <item>邦楽ランキング</item>
+        <item>洋楽ランキング</item>
+    </string-array>
+
+</resources>

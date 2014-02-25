@@ -1,0 +1,12 @@
+# view res/layout/video_list_demo.xml #generated:6
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/video_list_item.xml #generated:24
+-keep class com.google.android.youtube.player.YouTubeThumbnailView { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.xtmatsu.musicon.activity.VideoListActivity { <init>(...); }
+
+# onClick res/layout/video_list_demo.xml #generated:34
+-keepclassmembers class * { *** onClickClose(...); }
+
